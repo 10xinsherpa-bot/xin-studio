@@ -1067,7 +1067,7 @@ export default function XinStudioHomepage() {
         </div>
       </section>
 
-                        <section
+                              <section
         id="contact"
         onMouseEnter={() => setCursorText("Begin")}
         className="py-[220px] border-t border-white/5"
